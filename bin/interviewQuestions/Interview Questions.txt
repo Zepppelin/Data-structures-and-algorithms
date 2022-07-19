@@ -1,0 +1,153 @@
+Explain Different files used in Cucumber framework
+Different Annotation used in testcontroller file, in cucumber framework
+What is data driven framework
+What parameter to be consider , if u want to fill coins in room
+Explain previously worked framework
+Explain previous project from starting to end
+different Waits in selenium
+Write test cases on pen
+Domain  Knowledge in WM
+Write a flow diagram for your previously worked framework...
+1. Difference between Different Waits/Is it recommended to use implicit and explicit wait together
+2. Difference between Hooks and Background in Cucumber
+3. Difference between Timeout exception and WebDriver Exception
+4. Difference between findElement and findElements
+5. Difference between Scenario and Scenario outline in Cucumber
+6. Different Automation Testing Frameworks
+7. Explain Data driven Framework.
+8. How to we retrieve data and put data back to an excel file.
+9. Explain datatable in detail in cucumber
+10. Write program to find duplicate value in an array without collections
+11. Exception we get while closing browser
+12. Difference between assert and verify
+13. Challenges of data driver framework.
+How to get all the values of dropdown in Selenium,write syntax
+Difference between get and navigate() and practical usage 
+How to handle control+A in selenium ,write syntax 
+Find duplicate elements in an array and wipe out: Input:{1,2,3,4,3,4};  op: {1,2,3,4}
+Write test cases(happy +negative) to transfer from the credit card (16 digit ) which converted to 18 digit card number and initiate the payment 
+java collection hierarchy
+java exception hierarchy
+Difference between Comparable and Comparator
+Waits in selenium(What is fluent wait)
+JDBC connection syntax
+How will you validate 1000 lines of json body
+How will perform post request in restassure
+CI/CD Jenkins pipeline requirments
+How you will read excel data in jmeter
+internal working of hashmap
+what is Singleton class
+Why will we use singleton class
+numeric numbers present in string programm
+Difference between Array list and linked list
+Difference between put and patch in api
+serialization and deserilalization in java
+Sql joints
+Difference Between Scenario and Scenario Outline
+Different ways to parameterize the data in cucumber
+Feature file for the given scenario(Login to the portal using 5 users and fill the registration form )
+Difference between get() and navigate().to()
+How to handle the SSL certificate
+What are desiredcapabilities and in which scenario will use 
+Locators in Selenium
+How to find the links in the web page
+About the selenium grid
+How to execute the test cases parallely
+Different types of framework worked
+Java Program input: {1,2,3,4,1,2} and output : {1,2,3,4}
+Manual scenario based questions- Agile methodologies, Negative & positive test scenarios based on your Previous Project expeirence
+Collection heirarchy
+Exception Heirarchy 
+Stale element exception , Web driver exception, Class cast expection 
+Internal working of Hashmap
+What is abstraction and where we have used in our framework?
+Return type of find elements
+Suppose there are 10 checkboxes- I want to exclude 2 of them and write xpath in single line excluding those 2 
+How to copy excel data into Hashmap?
+Fetch 5th highest salary from employee's table
+Linkedlist & Arraylist in which scenario it will be used?
+How do you handle conflict in bitbucket?
+Manual scenario based questions- Agile methodologies, Negative & positive test scenarios based on your Previous Project expeirence
+Differences between List And Set and where we have used in the framework
+how to access elements in frames and how to handle alerts (pop up's)
+Stale element exception , Web driver exception, Class cast expection, Element not found exception, Element not visible exception
+Internal working of Hashmap
+What is abstraction and where we have used in our framework?
+What is encapsulation and where we have used in our framework?
+What is polymorphism and types polymorphisms and some examples for polumorphisms?
+Suppose there are 10 checkboxes- I want to exclude 2 of them and write xpath in single line excluding those 2 
+what are the synchranization methods in selenium?, implicit and explicit and fluent waits and how to use them
+How to copy excel data into Hashmap?
+Fetch five highest salaries from employee's table
+Linkedlist & Arraylist in which scenario it will be used?
+How do you handle conflict in bitbucket?
+Intoduce yourself,your day to day activity
+Project Framework Explanation with Selenium Component
+How to do parallel execution without using testng.xml and selenium grid
+static class usage in the framework
+Handle asynchronous in the Selenium
+Handle hidden element in Selenium
+JavascriptExecutor syntax
+Exception/Error in postman
+Put Scenario for create the resource
+Truncate and drop
+Post method characteristics and important paramter
+can we pass empty payload in post method
+Usage of HashMap in framework
+How to provide data in Selenium/Cucumber
+If you want to delete the table and structure
+If you know protractor or cypress
+Explain Oops concepts used in Framework
+Write down the syntax and explain Overloading & Overriding concept
+Write a syntax for Explicit wait and what is the difference between Explicit & Fluent wait
+Given String : "Morgan Stanley India" Output should be  " Morgan Stanley"
+Upon writing down Overloading & over riding syntax, Few random questions on that
+Explain Super keyword functionality 
+How to fetch all the items from drop down?
+Write a code and logic to access child window and close any given particular child window? Basically steps 
+Explain Selenium & Java Exceptions
+Explain Stale element exception
+What is the use of writing @Override annotation?
+Keywords in Cucumber feature file and explain
+Difference between scenario and Scenario Outline
+How to call feature file in your project
+How do you findout un implemented steps in step definition file
+Explain Background keyword
+How to scroll down the page and syntax
+is it possible to create n number of features in single feature file
+is it possible to create n number of scenarios in single feature file
+Write program for palindrom number and explain
+Write program for   palindrom string  (She asked just approach)
+Overridding and Overloading with explanation
+Whats the use of @Override annotation
+Write syntax to type Control+A in text box  and is it possible to type using sendkeys() ?
+Types of frameworks
+Why we need to use JavascriptExecutor ?
+Whats the difference between Final and Finally?
+Where and Why we need to use finally block
+Can we handle multiple catch block? how to use generic catch block?
+Write one scenario in feature file
+What is parallel testing and how to configure
+What are Frames and How to handle
+Difference between Background and hook
+How to read the data from excel sheet (username ,password,email-excel columns)and write the result back(storing result back in excel)
+Navigate to flipkart and identify the xpath and css for deal of the day
+xpath advance functions( text,contains, following sibling etc -names only)
+How select expected value from the autosuggestions
+Multi window handing (get window handles) and how to close a particular window
+For given string print the frequency abcdabcdabcd - a -3 , b-3 ,c-3, d-3
+Explain about urself?
+Explain data table in BDD framwork?
+Login into one page by using username and password and we have to enter 10 fields how we can acheive by using Data table?
+Difference between scenario outline and Data Table?
+Explain ur previous project folder structure?
+How to scroll the page? wite the syntax?For scrolling the page why can't we use Selenium instead of JavascriptExecutor?
+Difference between Actions and Action? 
+What will do build().perform()?Without perform() can we execute Actions?
+"program below format 
+3 3 3
+3 3
+3"
+what is stale element exception and what is the soultion to resolve the Stale Element Exception? 
+What isTimeout Exception,Webdriver Exception and Session not Found Exception?
+we have one class. how we can inherit abstarct class and interface at a time?
