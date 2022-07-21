@@ -14,6 +14,10 @@ public class InsertionSort
 				{
 					swap(arr, j,j-1);
 				}
+				else 
+				{
+					break;
+				}
 			}
 		}
 		return arr;
