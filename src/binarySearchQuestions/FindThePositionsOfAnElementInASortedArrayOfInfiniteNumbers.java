@@ -1,5 +1,6 @@
 package binarySearchQuestions;
 //https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
+//Asked in amazon
 public class FindThePositionsOfAnElementInASortedArrayOfInfiniteNumbers 
 {
 	public static int binarySearch(int[] arr, int target, int start, int end)
