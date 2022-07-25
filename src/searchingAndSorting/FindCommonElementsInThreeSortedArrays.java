@@ -20,8 +20,7 @@ public class FindCommonElementsInThreeSortedArrays
 	    		al.add(A[i]);
 	    	}
 	    }
-		return al;
-	    
+		return al; 
 	}
 	
 	public static boolean binarySearch(int[] arr, int n, int target)
